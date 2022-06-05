@@ -1,2 +1,0 @@
-# Tekelim
-Tekel Bayim
