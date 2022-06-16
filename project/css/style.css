@@ -144,9 +144,20 @@ color:antiquewhite
     color: white;
 
   }
+
+  #footer p a{
+
+  color: #ffd700;
+  font-family: 'Times New Roman', Times, serif;
+  font-style: italic;
+
+  }
+
+
   #footer p{
     font-weight: bold;
     color: white;
+    font-family: 'Times New Roman', Times, serif;
   }
  .navbar-brand{
    margin-left: 350px;
